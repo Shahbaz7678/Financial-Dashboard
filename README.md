@@ -14,6 +14,7 @@ Connecting Database with Power BI: The data stored in the SQL database is then l
 **Data Transformation**: In Power Query Editor, the data is reviewed, and additional transformations and aggregations are performed as needed to facilitate analysis. New metrics and key performance indicators (KPIs) are calculated using DAX queries to measure financial performance, customer behavior, and demographics.
 
 **Building Dashboards: Two dashboards are constructed:**
+
 Dashboard 1: Credit Card Financial Report
 KPI Monitoring, Revenue Analysis by Timeframe, Demographic, and Expenditure Type Analysis, Interactive Filters
 
