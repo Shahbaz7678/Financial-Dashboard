@@ -26,7 +26,6 @@ KPI Monitoring, Week-on-Week Revenue Change, Demographic Impact Analysis, Top 5 
 
 **Result**
 ![Financial Dashboard_page-0001](https://github.com/user-attachments/assets/d8ef0d19-f7cf-432d-bcde-5b433694d3ca)
-
 ![Financial Dashboard_page-0002](https://github.com/user-attachments/assets/94d634e1-ae60-4466-8683-2e913ca000b8)
 
 
