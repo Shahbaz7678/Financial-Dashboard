@@ -11,7 +11,7 @@ The steps involved in this project include:
 **Importing Data**: Once the database is ready, raw CSV data is imported into the database tables that have been created.
 Connecting Database with Power BI: The data stored in the SQL database is then linked to Power BI for visualization and analysis.
 
-**Data Transformation**: In Power Query Editor, the data is reviewed, and additional transformations and aggregations are performed as needed to facilitate analysis. New metrics and key performance indicators (KPIs) are calculated using DAX queries to measure various aspects of financial performance, customer behavior, and demographics.
+**Data Transformation**: In Power Query Editor, the data is reviewed, and additional transformations and aggregations are performed as needed to facilitate analysis. New metrics and key performance indicators (KPIs) are calculated using DAX queries to measure financial performance, customer behavior, and demographics.
 
 **Building Dashboards: Two dashboards are constructed:**
 Dashboard 1: Credit Card Financial Report
@@ -21,4 +21,4 @@ KPI Monitoring, Week-on-Week Revenue Change, Demographic Impact Analysis, Top 5 
 
 **Insights and Analysis**: The data analysis provides detailed insights into various aspects of credit card transactions, such as revenue growth, customer growth, transaction count, transaction amount, overall revenue, interest earned, cost-to-revenue ratio, activation rate, delinquency rate, utilization ratio, customer satisfaction score, customer age group and revenue generation, customer demographics, and revenue contribution by gender.
 
-**Real-Time Insights**: The project makes use of features to ensure that the Power BI dashboards reflect up-to-date information, providing stakeholders with the most current trends. .appppp{andAndpatterns.
+**Real-Time Insights**: The project makes use of features to ensure that the Power BI dashboards reflect up-to-date information, providing stakeholders with the most current trends and Patterns.
